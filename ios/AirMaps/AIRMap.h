@@ -11,7 +11,7 @@
 #import <UIKit/UIKit.h>
 
 #import "RCTConvert+MapKit.h"
-#import "React/RCTComponent.h"
+#import "RCTComponent.h"
 #import "SMCalloutView.h"
 
 extern const CLLocationDegrees AIRMapDefaultSpan;
